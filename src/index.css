@@ -1,0 +1,40 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  color-scheme: light dark;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  box-sizing: border-box;
+  background-color: burlywood;
+  color: whitesmoke;
+}
+
+.gameTime{
+  margin: 10px;
+}
+
+.gameContainer button{
+  padding: 5rem;
+  margin-right: 20px;
+  border: 1px solid whitesmoke;
+  border-radius: 40rem;
+  background-color: transparent;
+  font-size: 5rem;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  color: whitesmoke;
+}
+
+.btnRestart{
+  border: none;
+  background-color: whitesmoke;
+  padding: 10px;
+  color: burlywood;
+  font-size: 1.2rem;
+  width: 8rem;
+  border-radius: 5px;
+  letter-spacing: 1px;
+}
